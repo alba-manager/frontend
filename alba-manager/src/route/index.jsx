@@ -16,7 +16,7 @@ import WorkerNotifications from '../pages/worker/Notifications';
 import WorkerScorelog from '../pages/worker/Scorelog';
 
 // 👉 기타 (홈, 404 등)
-import Home from '../pages/Home';
+import Home from '../pages/Home.jsx';
 import NotFound from '../pages/NotFound.jsx';
 
 const PageRoutes = () => {
